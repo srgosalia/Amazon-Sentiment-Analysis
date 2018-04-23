@@ -2,7 +2,7 @@
 """
 Author: Siddharth Gosalia
 Date: 4/20/2018
-Title: NLP Homework 4: Sentiment Analysis of Amazon Product Reviews
+Title: Sentiment Analysis of Amazon Product Reviews
 
 """
 ############################################################################
